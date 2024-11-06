@@ -123,6 +123,9 @@ The Call Stack provides a clear mechanism for understanding JavaScript's single-
 - 🎓 [JavaScript.info](https://javascript.info/)
 
 ---
-Created with 💻 by AsumaCodes
+## Contributing
 
-Feel free to contribute! 🌟
+Feel free to contribute to this document by creating a pull request or opening an issue!
+
+---
+Created with 💻 by AsumaCodes
