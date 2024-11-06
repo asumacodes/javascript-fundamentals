@@ -28,6 +28,9 @@ let age = 25;
 // let and const are hoisted but not initialized (Temporal Dead Zone)
 ```
 
+## Temporal Dead Zone
+The area of a block where a variable is inaccessible until the moment it gets initialized with a value.
+
 ### 2. Function Hoisting 🔄
 
 #### Function Declarations
