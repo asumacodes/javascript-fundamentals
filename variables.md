@@ -139,13 +139,10 @@ function example() {
 ## Tips for Debugging 🔍
 1. Check variable scope and accessibility
 2. Be aware of TDZ when using let/const
-3. Use browser developer tools to inspect variable values
-4. Watch for unintended global variables
 
 ## Additional Resources 📚
 - [MDN Web Docs - Variables](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#Variables)
 - [JavaScript.info - Variables](https://javascript.info/variables)
-- [let and const - JavaScript.info](https://javascript.info/let-const)
 
 ## Contributing
 Feel free to contribute to this document by creating a pull request or opening an issue!
