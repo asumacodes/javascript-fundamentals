@@ -214,13 +214,11 @@ console.log(j); // ReferenceError
 ## Debugging Tips 🔧
 1. Use console.log to track variable values in different scopes
 2. Utilize browser developer tools' scope inspector
-3. Watch for unintended global variables
-4. Check for naming conflicts in nested scopes
+3. Check for naming conflicts in nested scopes
 
 ## Additional Resources 📚
 - [MDN Web Docs - Scope](https://developer.mozilla.org/en-US/docs/Glossary/Scope)
 - [JavaScript.info - Variable Scope](https://javascript.info/closure#lexical-environment)
-- [You Don't Know JS - Scope & Closures](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/scope-closures)
 
 ## Contributing
 Feel free to contribute to this document by creating a pull request or opening an issue!
