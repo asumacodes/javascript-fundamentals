@@ -101,18 +101,6 @@ console.log(Math.max(...numbers));  // 3
 })();
 ```
 
-### Generator Functions
-```javascript
-function* numberGenerator() {
-    yield 1;
-    yield 2;
-    yield 3;
-}
-
-const generator = numberGenerator();
-console.log(generator.next().value);  // 1
-```
-
 ## Advanced Concepts
 
 ### Higher-Order Functions
@@ -144,17 +132,13 @@ console.log(double(5));  // 10
 - Function declarations are optimized
 - Minimize function complexity
 
-## Browser & Environment Support 🌐
-- Supported in all modern browsers
-- ECMAScript 6+ features widely available
 
 ## Resources 📚
-- MDN Web Docs: Functions
-- "Eloquent JavaScript" by Marijn Haverbeke
-- JavaScript: The Good Parts
+- [MDN Web Docs: Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+- [JavaScript.info - Functions](https://javascript.info/function-basics)
 
 ## Contributing
-Contributions welcome! Open issues or PRs.
+Feel free to contribute to this document by creating a pull request or opening an issue!
 
 ---
-Created with ❤️ by JavaScript Enthusiasts
+Created with 💻 by AsumaCodes
