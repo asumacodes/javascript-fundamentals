@@ -128,10 +128,6 @@ function createManyClosures() {
 3. Avoid unnecessary nested functions
 4. Clear references when no longer needed
 
-## Browser & Environment Support 🌐
-- Supported in all modern browsers
-- Works in Node.js
-- Part of ECMAScript specifications
 
 ## Debugging Tips 🔍
 - Use browser developer tools
@@ -142,12 +138,11 @@ function createManyClosures() {
 Closures are a frequently asked JavaScript interview topic. Understanding their mechanics demonstrates advanced language knowledge.
 
 ## Resources 📚
-- MDN Web Docs: Closures
-- "You Don't Know JS" by Kyle Simpson
-- ECMAScript Specification
+- [MDN Web Docs: Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+- [Javascript Info: Closures](https://javascript.info/closure)
 
 ## Contributing
-Open to contributions! Feel free to submit pull requests or issues.
+Feel free to contribute to this document by creating a pull request or opening an issue!
 
 ---
-Created with ❤️ by JavaScript Enthusiasts
+Created with 💻 by AsumaCodes
