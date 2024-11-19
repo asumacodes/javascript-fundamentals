@@ -47,7 +47,7 @@ recurse(); // Stack overflow error
 ### Basic Flow
 1. Execute synchronous code
 2. Check microtask queue
-3. Check macrotask (callback) queue
+3. Check callback queue
 4. Update rendering
 5. Repeat
 
@@ -72,7 +72,7 @@ console.log('End'); // 2
 
 ## Queue Types 📋
 
-### 1. Macrotask Queue (Task Queue)
+### 1. Callback Queue (Task Queue)
 - setTimeout/setInterval callbacks
 - DOM events
 - AJAX responses
