@@ -229,11 +229,10 @@ console.timeEnd('operation');
 
 ## Resources 📚
 - [MDN Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
-- [Can I Use](https://caniuse.com/)
-- [Web.dev](https://web.dev/)
 
 ## Contributing
-Contributions welcome! Submit issues or PRs.
+
+Feel free to contribute to this document by creating a pull request or opening an issue!
 
 ---
-Created with 💻 by Web API Enthusiasts
+Created with 💻 by AsumaCodes
