@@ -208,11 +208,11 @@ console.log(data); // Still null!
 
 ## Resources 📚
 - [MDN Web Docs - Event Loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
-- [Jake Archibald's Event Loop Talk](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
-- [Node.js Event Loop Documentation](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
+- [JZ Info - Event Loop](https://javascript.info/event-loop)
 
 ## Contributing
-Feel free to contribute to this document by creating a pull request!
+
+Feel free to contribute to this document by creating a pull request or opening an issue!
 
 ---
-Created with 💻 by JavaScript Enthusiasts
+Created with 💻 by AsumaCodes
