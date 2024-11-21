@@ -195,19 +195,12 @@ function goodChain() {
 - Use Promise.all() for parallel tasks
 - Avoid creating unnecessary promises
 
-## Browser & Environment Support
-
-- Supported in all modern browsers
-- Native in ES6+
-- Polyfills available for older environments
-
 ## Resources
-- MDN Web Docs: Promises
-- "You Don't Know JS" by Kyle Simpson
-- ECMAScript Specification
+- [MDN Web Docs: Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+- [Javascript.info: Promises](https://javascript.info/promise-basics)
 
 ## Contributing
-Open to contributions! Submit PRs or issues.
+Feel free to contribute to this document by creating a pull request or opening an issue!
 
 ---
-Created with ❤️ by JavaScript Promise Masters
+Created with 💻 by AsumaCodes
