@@ -1,14 +1,5 @@
 # Understanding call(), bind(), and apply() in JavaScript
 
-## Table of Contents
-- [Introduction](#introduction)
-- [The 'this' Context](#the-this-context)
-- [call() Method](#call-method)
-- [apply() Method](#apply-method)
-- [bind() Method](#bind-method)
-- [Real-world Use Cases](#real-world-use-cases)
-- [Best Practices](#best-practices)
-
 ## Introduction
 `call()`, `bind()`, and `apply()` are methods that allow us to explicitly set the `this` context of a function and control how it's executed. These methods are fundamental to understanding JavaScript's function invocation and context binding.
 
@@ -192,3 +183,9 @@ obj.greet.call({name: 'New'}); // Won't work as expected
 - `bind()` - Returns new function with fixed this context and optional preset arguments
 
 Remember: The main difference between `call()/apply()` and `bind()` is that `bind()` returns a new function while `call()/apply()` executes the function immediately.
+
+## Contributing
+Feel free to contribute to this document by creating a pull request or opening an issue!
+
+---
+Created with 💻 by AsumaCodes
